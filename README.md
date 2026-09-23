@@ -34,12 +34,13 @@ spam-message-detector/
 ├── spam_detection_model.keras
 ├── tokenizer.pkl
 └── .gitignore
-## 📸 Application Screenshots
+
+##📸 Application Screenshots
 
 ### Spam Detection Result
 
-![Spam Detection Result](Screenshot%202026-09-23%20211832.png)
+![Spam Detection Result](./Screenshot%202026-09-23%20211832.png)
 
 ### Model Information
 
-![Model Information](Screenshot%202026-09-23%20211853.png)
+![Model Information](./Screenshot%202026-09-23%20211853.png)
