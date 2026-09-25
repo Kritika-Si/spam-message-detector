@@ -1,8 +1,7 @@
-streamlit==1.39.0
+streamlit
 tensorflow==2.22.0rc0
 numpy
 pandas
 scikit-learn
 nltk
 joblib
-protobuf>=5.26.1,<8
