@@ -45,3 +45,7 @@ spam-message-detector/
 ### Model Information
 
 ![Model Information](Screenshot%202026-09-23%20211853.png)
+
+## 🚀 Live Demo
+
+🔗 https://spam-message-detector-8dnzsgyhxdxrdynyjnzd3k.streamlit.app
